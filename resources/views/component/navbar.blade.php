@@ -39,7 +39,7 @@
         </div>
     </div>
     
-    <!-- Mobile Menu (Hidden by Default) -->
+    <!-- Mobile menu (Hidden by Default) -->
     <div id="mobile-menu" class="md:hidden hidden px-4 pt-2 pb-4 bg-white grid gap-2 z-40">
         <a href="#" class="block py-2 text-gray-500 hover:text-gray-700 transition">Beranda</a>
         <a href="#" class="block py-2 text-gray-500 hover:text-gray-700 transition">Layanan</a>
