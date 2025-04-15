@@ -69,8 +69,8 @@
             </form>
             
             <div class="text-center text-sm">
-                <p class="text-gray-600">Already have an account? 
-                    <a href="{{ route('login') }}" class="text-blue-500 hover:text-blue-700 font-semibold">Login here</a>
+                <p class="text-gray-600">Sudah memiliki akun? 
+                    <a href="{{ route('login') }}" class="text-blue-500 hover:text-blue-700 font-semibold">Login</a>
                 </p>
             </div>
         </div>

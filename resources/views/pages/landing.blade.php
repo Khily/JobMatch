@@ -89,7 +89,7 @@
     </div>
 
     <div class="mt-52 text-center text-[20px] font-[400]">
-        ini footer nanti
+        ini footer nantii
     </div>
 
 
